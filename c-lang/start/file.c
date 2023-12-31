@@ -23,3 +23,8 @@ scanf("%f %f ", &decimal, &decimal_);
 
 // print valor do scan/var
 printf("Valores: %d,  %f & %c", numero, decimal, caracter);
+
+#define MINHA_CONST 32.792     // substituído em tempo de compilação onde tiver esta variável
+const int outra_constante = 4; // é reservado um espaço na memória para esta variável
+
+float variavel_ = MINHA_CONST;
