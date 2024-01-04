@@ -28,3 +28,11 @@ printf("Valores: %d,  %f & %c", numero, decimal, caracter);
 const int outra_constante = 4; // é reservado um espaço na memória para esta variável
 
 float variavel_ = MINHA_CONST;
+
+/*
++: soma
+*: multiplicação
+-: subtração
+/: divisão
+%: resto da divisão
+*/
