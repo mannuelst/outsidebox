@@ -4,7 +4,7 @@
 
   - Escreva um algoritmo para encontrar o maior número em uma lista de valores.
 
-- [ ] **Verifique se um número é primo**
+- [x] **Verifique se um número é primo**
 
   - Crie um programa que determine se um número é primo ou não.
 
