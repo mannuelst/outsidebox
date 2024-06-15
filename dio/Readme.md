@@ -12,7 +12,7 @@
 
   - Leia dois valores inteiros A e B. Se A e B forem iguais, some-os; caso contrário, multiplique A por B. Imprima o resultado final.
 
-- [ ] **4. Antecessor e Sucessor**
+- [x] **4. Antecessor e Sucessor**
 
   - Receba um número inteiro e imprima seu antecessor e seu sucessor.
 
